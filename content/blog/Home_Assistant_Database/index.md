@@ -11,6 +11,7 @@ tags: [Home Assistant]
 contributors: []
 pinned: false
 homepage: false
+toc: true
 ---
 
 ## Database problems
@@ -63,3 +64,5 @@ The key is the repack option being set to true, otherwise, file size won’t be 
 It is possible to use an external MySQL instance. But, I ended up setting the local MariaDB with add-on as it was trivial.
 
 It is also possible to move to another SQLite file on network drive.
+
+{{< relatedpages "Home Assistant" >}}
