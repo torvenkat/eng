@@ -7,7 +7,7 @@ lastmod: 2024-03-03T19:11:44-05:00
 draft: false
 weight: 50
 categories: ["Home Automation"]
-tags: ["home_automation", "weewx", "ecowitt"]
+tags: ["home-automation", "weewx", "ecowitt"]
 contributors: [V. Venkataramanan]
 pinned: false
 homepage: false
