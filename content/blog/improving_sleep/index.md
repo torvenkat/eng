@@ -21,3 +21,10 @@ seo:
 A short video by Prof. Matt Walker on improving sleep quality. 
 
 {{< youtube lRp5AC9W_F8 >}}
+
+{{< link-card
+  title="Showcase"
+  description="Explore the infinite possibilities of Doks"
+  href="/blog/integrating-ecowitt-whittboy-with-weewx/"
+  target="_blank"
+>}}
